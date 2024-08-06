@@ -85,3 +85,18 @@ h3 {
     font-size: 21px;
     margin: 1px 40px 1px 40px;
 }
+
+.button{
+    background: none;
+    border: none;
+    
+}
+
+.button a {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    width: 130px;
+    text-decoration: none;
+}
+
